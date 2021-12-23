@@ -18,7 +18,8 @@ The code repository for our front end and backend is
 
  4. Yvonne Gitata - SCCI/00758/2019
 
- 5. Sammy Achiala -SCCI/3779P/2019
+ 5. Sammy Achiala -SCCI/03779P/2019
 
- 6. James Wachira - SCCI/00762/2019
+ 6. James Wachira - SCCI/00761/2019
 
+ 7.Nderitu Chabi - SCCI/00762/2019
